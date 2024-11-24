@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Tulsi Thakkar 👋
 
-<!--
-**tulsithakkar/tulsithakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate data engineer and tech enthusiast dedicated to building innovative solutions.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- 💻 **Languages**: Python, SQL, Java, C#, ASP.NET MVC
+- ⚙️ **Tools**: Snowflake, Git, Apache Airflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Exploring cloud-based data engineering solutions.
+- Working with cloud platforms to build scalable data pipelines and services.
+
+## 📫 Contact Me
+- Email: tulsithakkar.251@gmail.com
+- LinkedIn: https://www.linkedin.com/in/thakkar-tulsi/
+
+Thank you for visiting my profile!
